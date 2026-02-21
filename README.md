@@ -31,22 +31,21 @@ Production-focused **Full Stack Developer** building scalable **e-commerce**, **
 
 ## 🌐 Connect with Me
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-
-  <div>
-    <a href="https://jhun.com.tr/en">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:ceyhunturkmen4@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </div>
-
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=ceyhun64&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS" alt="Profile Views"/>
-  </div>
-
-</div>
+<table width="100%" border="0">
+  <tr>
+    <td align="left" style="border: none;">
+      <a href="https://jhun.com.tr/en">
+        <img src="https://img.shields.io/badge/🌐_Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge" alt="Portfolio"/>
+      </a>
+      <a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="mailto:ceyhunturkmen4@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td align="right" style="border: none;">
+      <img src="https://komarev.com/ghpvc/?username=ceyhun64&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS" alt="Profile Views"/>
+    </td>
+  </tr>
+</table>
