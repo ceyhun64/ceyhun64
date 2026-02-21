@@ -1,21 +1,3 @@
-<div align="center">
-
-<a href="https://jhun.com.tr/en"><img src="https://img.shields.io/badge/🌐_Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:ceyhunturkmen4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ceyhun64&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-
-
 ### 👤 About Me
 
 Production-focused **Full Stack Developer** building scalable e-commerce, enterprise SaaS, and marketplace platforms — from architecture to CI/CD deployment.
@@ -82,6 +64,22 @@ Production-focused **Full Stack Developer** building scalable e-commerce, enterp
 
 &nbsp;
 <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=ceyhun64&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8ef7&ring=4f8ef7&fire=ff6b35&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa" />
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://jhun.com.tr/en"><img src="https://img.shields.io/badge/🌐_Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge" /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:ceyhunturkmen4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ceyhun64&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS)
 
 </div>
 
