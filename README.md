@@ -2,6 +2,7 @@
 
 Production-focused **Full Stack Developer** building scalable **e-commerce**, **enterprise SaaS**, and **marketplace platforms** — from architecture to CI/CD deployment.
 
+
 ## 🌐 Connect with Me
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
@@ -35,14 +36,8 @@ Production-focused **Full Stack Developer** building scalable **e-commerce**, **
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="start">
 
 <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=ceyhun64&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8ef7&ring=4f8ef7&fire=ff6b35&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa" />
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ceyhun64&style=for-the-badge&color=4f8ef7&label=PROFILE+VIEWS&labelColor=0d1117" />
 </div>
-
-
-
