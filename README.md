@@ -87,10 +87,4 @@ Production-focused **Full Stack Developer** building scalable e-commerce, enterp
 
 ---
 
-<div align="center">
 
-*Open to full-time roles, freelance engagements, and technical collaborations.*
-
-**[jhun.com.tr](https://jhun.com.tr/en)** · **[LinkedIn](https://www.linkedin.com/in/ceyhun-türkmen-14882a26a)** · **[ceyhunturkmen4@gmail.com](mailto:ceyhunturkmen4@gmail.com)**
-
-</div>
