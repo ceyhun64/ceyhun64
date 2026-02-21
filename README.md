@@ -84,5 +84,3 @@ Production-focused **Full Stack Developer** building scalable e-commerce, enterp
 </div>
 
 ---
-
-en profesyonel hale getir
