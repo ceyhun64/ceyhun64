@@ -24,28 +24,29 @@ Production-focused **Full Stack Developer** building scalable **e-commerce**, **
 ## 📊 GitHub Stats
 
 <div align="center">
+
 <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=ceyhun64&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8ef7&ring=4f8ef7&fire=ff6b35&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ceyhun64&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
 ## 🌐 Connect with Me
 
-<table width="100%" border="0">
-  <tr>
-    <td align="left" style="border: none;">
-      <a href="https://jhun.com.tr/en">
-        <img src="https://img.shields.io/badge/🌐_Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge" alt="Portfolio"/>
-      </a>
-      <a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-      <a href="mailto:ceyhunturkmen4@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-      </a>
-    </td>
-    <td align="right" style="border: none;">
-      <img src="https://komarev.com/ghpvc/?username=ceyhun64&style=for-the-badge&color=0a0a0a&label=PROFILE+VIEWS" alt="Profile Views"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div>
+    <a href="https://jhun.com.tr/en">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge" />
+    </a>
+    <a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ceyhunturkmen4@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+</div>
