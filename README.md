@@ -4,21 +4,11 @@
 
 <br/>
 
-<a href="https://jhun.com.tr/en">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge&logoColor=white" />
-</a>
+<a href="https://jhun.com.tr/en"><img src="https://img.shields.io/badge/🌐_Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:ceyhunturkmen4@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/ceyhun64">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="mailto:ceyhunturkmen4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -26,17 +16,13 @@
 
 </div>
 
-<br/>
-
 ---
 
 <img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ceyhun64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=4f8ef7&rank_icon=github&include_all_commits=true&count_private=true" />
 
 ### 👤 About Me
 
-Production-focused **Full Stack Developer** specialized in building scalable e-commerce, enterprise SaaS, and marketplace platforms.
-
-I own the full development lifecycle — from system architecture to CI/CD deployment — with a strong emphasis on **performance**, **security**, and **clean backend design**.
+Production-focused **Full Stack Developer** building scalable e-commerce, enterprise SaaS, and marketplace platforms — from architecture to CI/CD deployment.
 
 <br/>
 
@@ -60,7 +46,6 @@ I own the full development lifecycle — from system architecture to CI/CD deplo
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux)
 
@@ -94,94 +79,15 @@ I own the full development lifecycle — from system architecture to CI/CD deplo
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [jhun.com.tr](https://jhun.com.tr/en) — AI Portfolio
-Personal portfolio with a **real-time streaming AI assistant** powered by Anthropic Claude API. Visitors can ask questions about my projects, CV, and experience directly from the site.
-
-**Results:** Lighthouse 100 · SEO 100 · Accessibility 100
-
-`Next.js` `SSG` `Claude API` `TypeScript` `TR/EN`
-
-</td>
-<td width="50%" valign="top">
-
-### 🔒 TAV Security — Training Platform
-Enterprise training & exam system for **TAV Private Security Services** (airport personnel). Role-based access (Admin / Trainer / Personnel) with **TOTP 2FA via Google Authenticator** and an interactive baggage inspection simulation.
-
-`React` `Redux Toolkit` `Node.js` `MySQL` `JWT` `RBAC`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Suite — 6+ Deployments
-Full-stack commercial stores: BalkoLüx, Moda Perde, NowArt Plicell, RosallieBaby, BarScarf, İşPool. Each with product/order management, admin panel, and **Iyzico payment integration**. Optimized with WebP/AVIF, code splitting, and SSR.
-
-`Next.js` `Node.js` `PostgreSQL` `Prisma` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 📡 AdsToWin — Ad Reward Platform
-Role-based rewarded advertising platform with campaign management, real-time balance tracking, and concurrent multi-user session support.
-
-`Next.js` `Node.js` `PostgreSQL`
-
-<br/>
-
-### 🔬 VANET Cyber Attack Simulator
-*Graduation Project* — Academic simulation of DoS, message tampering, and identity spoofing attacks in vehicular ad hoc networks.
-
-`OMNeT++` `SUMO` `C++`
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhun64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ceyhun64&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8ef7&ring=4f8ef7&fire=ff6b35&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhun64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
+&nbsp;
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=ceyhun64&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8ef7&ring=4f8ef7&fire=ff6b35&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa" />
 
 </div>
-
----
-
-## 🎯 Areas of Expertise
-
-<div align="center">
-
-| Domain | Capabilities |
-|---|---|
-| **Frontend Architecture** | Next.js SSR/SSG, React, TypeScript, Redux Toolkit, Tailwind CSS |
-| **Backend & API Design** | Node.js, Express, RESTful API, MVC Architecture, Transaction Management |
-| **Database Engineering** | PostgreSQL indexing & query optimization, Prisma ORM, MongoDB |
-| **Security** | JWT authentication, RBAC systems, TOTP 2FA, structured logging |
-| **DevOps** | Docker, Nginx, VPS deployment, PM2, CI/CD pipelines, Linux |
-| **AI Integration** | Anthropic Claude API, prompt engineering, streaming responses |
-| **E-Commerce** | Payment gateways (Iyzico), product/order management, admin panels |
-| **Performance** | Core Web Vitals, WebP/AVIF, lazy loading, code splitting, Lighthouse 100 |
-
-</div>
-
----
-
-## 🎓 Education
-
-**B.Sc. Computer Engineering** — İskenderun Technical University *(2020 – 2024)*
-
-Graduation Project: VANET Cyber Attack Simulator — academic research on vehicular network security.
 
 ---
 
