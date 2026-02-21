@@ -2,6 +2,22 @@
 
 Production-focused **Full Stack Developer** building scalable **e-commerce**, **enterprise SaaS**, and **marketplace platforms** — from architecture to CI/CD deployment.
 
+## 🌐 Connect with Me
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div>
+    <a href="https://jhun.com.tr/en">
+      <img src="https://img.shields.io/badge/🌐_Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge" />
+    </a>
+    <a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:ceyhunturkmen4@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </div>
+</div>
+
 ## 🏆 Highlights
 
 - **Lighthouse Score:** 90–100 | **SEO & Accessibility:** 100/100  
@@ -29,18 +45,4 @@ Production-focused **Full Stack Developer** building scalable **e-commerce**, **
 </div>
 
 
-## 🌐 Connect with Me
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div>
-    <a href="https://jhun.com.tr/en">
-      <img src="https://img.shields.io/badge/🌐_Portfolio-jhun.com.tr-0a0a0a?style=for-the-badge" />
-    </a>
-    <a href="https://www.linkedin.com/in/ceyhun-türkmen-14882a26a">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:ceyhunturkmen4@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </div>
-</div>
