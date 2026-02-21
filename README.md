@@ -29,8 +29,7 @@ Production-focused **Full Stack Developer** building scalable **e-commerce**, **
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ceyhun64&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS" />
-
+<img src="https://komarev.com/ghpvc/?username=ceyhun64&style=for-the-badge&color=4f8ef7&label=PROFILE+VIEWS&labelColor=0d1117" />
 </div>
 
 ---
