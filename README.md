@@ -79,7 +79,7 @@ Production-focused **Full Stack Developer** building scalable e-commerce, enterp
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhun64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" />
+
 &nbsp;
 <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=ceyhun64&theme=tokyonight&hide_border=true&background=0d1117&stroke=4f8ef7&ring=4f8ef7&fire=ff6b35&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=aaaaaa" />
 
