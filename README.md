@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=ceyhun64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=4f8ef7&rank_icon=github&include_all_commits=true&count_private=true" />
+
 
 ### 👤 About Me
 
