@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a2e&height=120&section=header&text=Ceyhun%20Türkmen&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer&descSize=18&descAlignY=85&descColor=aaaaaa" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=header&text=Ceyhun%20Türkmen&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer&descSize=18&descAlignY=85&descColor=888888" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8e8f0,100:c8d4f0&height=120&section=header&text=Ceyhun%20Türkmen&fontSize=42&fontColor=0a0a0a&fontAlignY=65&desc=Full%20Stack%20Developer&descSize=18&descAlignY=85&descColor=444444" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=120&section=header&text=Ceyhun%20Türkmen&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full%20Stack%20Developer&descSize=18&descAlignY=85&descColor=888888" width="100%" alt="Header" />
+</picture>
 
 <br/>
 
@@ -93,7 +97,11 @@ Production-focused **Full Stack Developer** building scalable e-commerce, enterp
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0a0a0a&height=80&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:c8d4f0,100:e8e8f0&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" width="100%" alt="Footer" />
+</picture>
 
 *Open to full-time roles, freelance engagements, and technical collaborations.*
 
